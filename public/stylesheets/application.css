@@ -1,0 +1,24 @@
+/** {
+  outline: solid black 1px;
+}*/
+
+.new-contact-name {
+  display: none;
+}
+
+.contact-info {
+  display: none;
+}
+
+.contact-name {
+  display: none;
+}
+
+.four.columns {
+  display: inline-block;
+}
+
+.six.columns {
+  display: inline-block;
+  float: right;
+}
